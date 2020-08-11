@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 越胖
+title: 
 subtitle: IT届的一名相声爱好者
 sitemap:
   priority: 0.9
