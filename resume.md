@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: 关于越胖
+subtitle: 一个IT届的相声爱好者
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
