@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Good Morning，Good Afternoon And Good Night
 subtitle: IT届的一名相声爱好者
 sitemap:
   priority: 0.9
