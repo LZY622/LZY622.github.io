@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 博客
+title: 点滴记录 水滴石穿
 subtitle: 路遥知马力
 ---
 
